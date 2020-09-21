@@ -33,6 +33,7 @@ div#img-div{
   margin-right: 15px;
 }
 div#image{
+  text-align: center;
   padding-top: 30px;
   max-width: 100%;
   height: auto;
